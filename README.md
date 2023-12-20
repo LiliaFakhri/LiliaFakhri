@@ -67,14 +67,43 @@
   
 </div>
 
+### ✏️ Testing Artefacts:
+
+<div>
+  <a href="https://github.com/LiliaFakhri/Task1" target="_blank">
+  <p>Приоритизация в регрессии</p>
+    </a>
+    <a href="https://github.com/LiliaFakhri/Task2" target="_blank">
+      <p>Типы тестирования</p>
+    </a>
+    <a href="https://github.com/LiliaFakhri/Task3" target="_blank">
+      <p>Анализ требований</p>
+    </a>
+    <a href="https://github.com/LiliaFakhri/Task4" target="_blank">
+      <p>Техники Тест-дизайна</p>
+    </a>
+    </a>
+    <a href="https://github.com/LiliaFakhri/Task5" target="_blank">
+      <p>Создание тестовой документации: Qase,YouTrack</p>
+    </a>
+    <a href="https://github.com/LiliaFakhri/Task6" target="_blank">
+      <p>Тестирование интернет-магазина и разработка собственной веб-страницы</p>
+    </a>
+    <a href="https://github.com/LiliaFakhri/Task7" target="_blank">
+      <p> Создание коллекции в Postman и кейсы для API </p>
+    </a>
+    <a href="https://github.com/LiliaFakhri/Task8" target="_blank">
+      <p>естирование базы данных SQL,MongoDB</p>
+    </a>
+    <a href="https://github.com/LiliaFakhri/Task9" target="_blank">
+      <p>Тестирование мобильных приложений</p>
+    </a>
+    <a href="https://github.com/LiliaFakhri/Task10/blob/main/README.md" target="_blank">
+      <p>Перехват трафика через Charles Proxy</p>
+    </a>
+</div>
+
+
 ---
-
-<!-- ### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-
---- -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
