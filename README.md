@@ -59,7 +59,7 @@
       <p>Тестирование базы данных SQL,MongoDB</p>
     </a>
     <a href="https://github.com/LiliaFakhri/Task9" target="_blank">
-      <p>Тестирование мобильных приложений</p>
+      <p>Тестирование API</p>
     </a>
     <a href="https://github.com/LiliaFakhri/Task10/blob/main/README.md" target="_blank">
       <p>Перехват трафика через Charles Proxy</p>
