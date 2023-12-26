@@ -1,6 +1,7 @@
-<h1 align="center">Привет, меня зовут Лилия!</h1  
+<h1 align="center">Привет, меня зовут Лилия!<img src="https://z-n.center/img/symbol/liliya.png" height="40" ></h1 
                                               
 <h2 align="center">Я начинающий QA Engineer и на этой странице я буду делиться с вами своими наработанными навыкам. </h2>
+<img align="right" src="https://boobzone.pro/uploads/posts/2023-08/1693374726_boobzone-pro-p-flat-humiliation-girl-pinterest-29.jpg" height="245">
 
 <h2 align="center"><strong>👨‍💻 Обо мне:</strong></h2>
   
