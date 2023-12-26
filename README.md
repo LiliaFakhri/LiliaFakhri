@@ -63,8 +63,8 @@
       <p>Тестирование API</p>
     </a>
     <a href="https://github.com/LiliaFakhri/Task10/blob/main/README.md" target="_blank">
-      <p>Перехват трафика через Charles Proxy</p>
-    </a>
+      <p>Команды Bush</p>
+     <a href="git@github.com:LiliaFakhri/GitBush11.git" target="_blank">
 </div>
 
 
