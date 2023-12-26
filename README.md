@@ -43,7 +43,7 @@
       <p>Анализ требований </p>
     </a>
     <a href="https://github.com/LiliaFakhri/Task4" target="_blank">
-      <p>Техники Тест-дизайна (Youtrack,Qase) </p>
+      <p>Техники Тест-дизайна: Youtrack,Qase </p>
     </a>
     </a>
     <a href="https://github.com/LiliaFakhri/Task5" target="_blank">
