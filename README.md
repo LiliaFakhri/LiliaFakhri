@@ -67,8 +67,9 @@
      <a href="git@github.com:LiliaFakhri/GitBush11.git" target="_blank">
 </div>
 
+<h2> <p align="center"><strong> Законченные курсы:</strong></p></h2>
+<p align="center"><strong>👨‍💻Курс Артема Русова "Функциональное тестирование ПО" ноябрь 2023-декабрь 2023</strong></p>
 
----
 <h2> <p align="center"><strong> 📫 Как связаться со мной:</strong></p></h2>
 
 <p align="center">  <a href="mailto:LiliaF4@yandex.ru" target="_blank" style="margin-right: 40px;">
