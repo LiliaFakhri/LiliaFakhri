@@ -65,10 +65,8 @@
     <a href="https://github.com/LiliaFakhri/Task10/blob/main/README.md" target="_blank">
       <p>Перехват трафика через Charles Proxy</p> 
     </a>
-     <a href="git@github.com:LiliaFakhri/GitBush11.git" target="_blank">
-         <a href="https://github.com/LiliaFakhri/Task10/blob/main/README.md" target="_blank">
-      <p>Работа с командами Git</p>
-     <a href="https://github.com/LiliaFakhri/GitBush11" target="_blank">
+     <a href="https://github.com/LiliaFakhri/GitBush11.git" target="_blank">
+       <p>Работа с командами Git</p>
        </a>
 </div>
 
