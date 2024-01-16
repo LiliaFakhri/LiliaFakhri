@@ -73,13 +73,18 @@
 <h2> <p align="center"><strong> Законченные курсы:</strong></p></h2>
 <p align="center"><strong>👨‍💻Курс Артема Русова "Функциональное тестирование ПО" ноябрь 2023-декабрь 2023</strong></p>
 
+<a href="https://drive.google.com/file/d/1g6Sae4MGfkP3mZWisUTFIDkO8p5-6eX3/view" target="_blank">
+ <p align="center"><strong>My CV</p>
+</a>
+
+
 <h2> <p align="center"><strong> 📫 Как связаться со мной:</strong></p></h2>
 
 <p align="center">  <a href="mailto:LiliaF4@yandex.ru" target="_blank" style="margin-right: 40px;">
   <img src="https://iwiki.su/wp-content/uploads/2014/04/mail_icon_by_cortexcerebri-d90ks8v.png" title="LiliaF4@yandex.ru" alt="mail" width="60" height="50"/>&nbsp
   </a>
   <a href="https://t.me/LilyRise" target="_blank" style="margin-right: 40px;">
-    <img src="https://camo.githubusercontent.com/8f1457035ad09687b42835771d69971ad1f3d2b5e79470d22623782de2419317/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d363333303626666f726d61743d706e67" width="60" height="60" alt="telegram" title="https://t.me/LilyRise"/>&nbsp
+    <img src="https://i0.wp.com/www.uooptkk.ru/wp-content/uploads/2022/07/telegram-logo.png?fit=900%2C764" width="70" height="60" alt="telegram" title="https://t.me/LilyRise"/>&nbsp
   </a>
   <a href="liliia_95351" target="_blank">
     <img src="https://papik.pro/uploads/posts/2021-11/1636185957_5-papik-pro-p-logotip-diskorda-foto-5.png" alt="#95351" height="50" width="" title="https://discord.gg/#95351"/>&nbsp
