@@ -77,8 +77,8 @@
 
 <h2> <p align="center"><strong> MyCV:</strong></p></h2>
 
-<p align="center"> <a href="https://drive.google.com/file/d/1g6Sae4MGfkP3mZWisUTFIDkO8p5-6eX3/view" target="_blank" "margin-right: 40px;">
- <img src="https://i.pinimg.com/originals/3b/64/9f/3b649f4ce2ab0a50e64f312c7c4976bf.jpg" title="https://drive.google.com/file/d/1g6Sae4MGfkP3mZWisUTFIDkO8p5-6eX3/view" alt="MyCV" width="80" height="80"/>&nbsp
+<p align="center"> <a href="https://docs.google.com/document/d/1RVxh9XzpzoWTEuIIqATzbogBkWEuGBhIClKFj9yeaNQ/view" target="_blank" "margin-right: 40px;">
+ <img src="https://i.pinimg.com/originals/3b/64/9f/3b649f4ce2ab0a50e64f312c7c4976bf.jpg" title="https://docs.google.com/document/d/1RVxh9XzpzoWTEuIIqATzbogBkWEuGBhIClKFj9yeaNQ//view" alt="MyCV" width="80" height="80"/>&nbsp
 </a>
 
 
